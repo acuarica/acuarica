@@ -16,6 +16,12 @@ I have worked for more than 10 years in private industry in different roles, as 
 Master in Computer Science from the University of Buenos Aires, Argentina.
 Also Teaching Experience as Teaching Assistant in both USI and University of Buenos Aires.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acuarica&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acuarica&layout=compact)
+
+> **Note**
+> _Most Used Languages_ does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub.
+
 <!--
 **acuarica/acuarica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
