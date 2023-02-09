@@ -1,8 +1,5 @@
 ### Hi there, this is a **WIP** 👋
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-> **Note** Programming quotes provided by [github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes)
-
 ## About
 
 I have worked for more than 10 years in private industry in different roles, as Software Developer, Software Engineer, Network Administrator and Freelance Developer.
