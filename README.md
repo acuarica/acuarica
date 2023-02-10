@@ -1,21 +1,21 @@
 ### Hi there, this is a **WIP** 👋
 
-## About
+## About Me
 
-I have worked for more than 10 years in private industry in different roles, as Software Developer, Software Engineer, Network Administrator and Freelance Developer.
+I have worked for more than 10 years in private industry in different roles, as Software Engineer, Network Administrator and Freelance Developer.
 
 I have a Ph.D. in Informatics at the Università della Svizzera italiana, Switzerland.
 The topic of my Ph.D. was empirical studies on programming languages.
 Its main goal was to understand how and why programming features are being used in the wild.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acuarica&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acuarica&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acuarica&layout=compact)
 
-> **Note** _Most Used Languages_ does not indicate my skill level; it's a GitHub metric to determine which languages have the most code on GitHub.
+> **Note** _Most Used Languages_ does not indicate skill level; it's a metric to determine which languages have the most code on GitHub.
 
 ## Interests
 
-- Typescript & Rust
+- Typescript/Javascript, Rust & Solidity
 - Web3, Smart Contracts, Ethereum & EVM-based blockchains
 - Partial & Symbolic Evaluation, Supercompilation, Static & Dynamic Analysis
 
