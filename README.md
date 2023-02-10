@@ -2,7 +2,9 @@
 
 ## About Me
 
-I have worked for more than 10 years in private industry in different roles, as Software Engineer, Network Administrator and Freelance Developer.
+I worked in the Web3 space for more than 2 years.
+I worked with Ethereum, Avalanche, NEAR, EOS/WAX and Everscale (TON) using both Solidity and Rust.
+Moreover, I have worked for more than 10 years in private industry in different roles, as Software Engineer, Network Administrator and Freelance Developer.
 
 I have a Ph.D. in Informatics at the Università della Svizzera italiana, Switzerland.
 The topic of my Ph.D. was empirical studies on programming languages.
