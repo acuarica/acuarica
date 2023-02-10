@@ -8,7 +8,6 @@ I have a Ph.D. in Informatics at the Università della Svizzera italiana, Switze
 The topic of my Ph.D. was empirical studies on programming languages.
 Its main goal was to understand how and why programming features are being used in the wild.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acuarica&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acuarica&layout=compact)
 
 > **Note** _Most Used Languages_ does not indicate skill level; it's a metric to determine which languages have the most code on GitHub.
