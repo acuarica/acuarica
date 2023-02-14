@@ -16,7 +16,7 @@ Its main goal was to understand how and why programming features are being used 
 
 - 🔭 Typescript/Javascript, Rust & Solidity
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acuarica&exclude_repo=phd-thesis&langs_count=10&layout=compact)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acuarica&theme=dracula&exclude_repo=phd-thesis&langs_count=10&layout=compact)
   > **Note** This does not indicate skill level; it's a metric to determine which languages have the most code on GitHub.
 
 - 🔭 Web3, Smart Contracts, Ethereum & EVM-based blockchains
@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 
 ## Currently Working On
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acuarica&repo=vscode-ethers)](https://github.com/acuarica/vscode-ethers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acuarica&repo=vscode-ethers&theme=dracula)](https://github.com/acuarica/vscode-ethers)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acuarica&repo=evm)](https://github.com/acuarica/evm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acuarica&repo=evm&theme=dracula)](https://github.com/acuarica/evm)
