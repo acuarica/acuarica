@@ -26,9 +26,21 @@ Its main goal was to understand how and why programming features are being used 
 
 ## Education
 
-- 🎓 **Ph.D. in Computer Science**, 2019. _Università della Svizzera italiana_, Switzerland
-- 🎓 **Licenciate in Computer Science**, 2011. _University of Buenos Aires_, Argentina
-- 🎓 **Computer Analyst**, 2006. _University of Buenos Aires_, Argentina
+- 🎓 **Ph.D. in Computer Science**, 2013-2019. _Università della Svizzera italiana_, Switzerland
+
+  Programming languages research in Java, Scala and Haskell, runtime systems and virtual machines with C++, software verification, data analysis using R and Python.
+
+- 🎓 **Licenciate in Computer Science**, 2007-2011. _University of Buenos Aires_, Argentina
+
+  This degree is considered by many institutions as being equivalent to an M.Sc. degree.
+
+- **Internship & Master Thesis**, 2011. _INRIA/University of Strasbourg_, France
+
+  Working on VMAD, "A Virtual Machine for Automatic Program Parallelization"
+
+- 🎓 **Computer Analyst**, 2003-2006. _University of Buenos Aires_, Argentina
+
+  This is a 3 years degree as part of the Licentiate in Computer Science programme.
 
 <!--
 **acuarica/acuarica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
