@@ -32,7 +32,7 @@ Its main goal was to understand how and why programming features are being used 
 - 🎓 **Licenciate in Computer Science**, _2007-2011, University of Buenos Aires, Argentina_.
   This degree is considered by many institutions as being equivalent to an M.Sc. degree.
 
-- **Internship & Master Thesis**, _2011, INRIA/University of Strasbourg, France_.
+- 🎓 **Internship & Master Thesis**, _2011, INRIA/University of Strasbourg, France_.
   Worked on VMAD, "A Virtual Machine for Automatic Program Parallelization"
 
 - 🎓 **Computer Analyst**, _2003-2006, University of Buenos Aires, Argentina_.
