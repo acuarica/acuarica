@@ -48,5 +48,4 @@ Here are some ideas to get you started:
 ## Currently Working On
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acuarica&repo=vscode-ethers&theme=dracula)](https://github.com/acuarica/vscode-ethers)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=acuarica&repo=evm&theme=dracula)](https://github.com/acuarica/evm)
