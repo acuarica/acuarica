@@ -26,20 +26,16 @@ Its main goal was to understand how and why programming features are being used 
 
 ## Education
 
-- 🎓 **Ph.D. in Computer Science**, 2013-2019. _Università della Svizzera italiana_, Switzerland
-
+- 🎓 **Ph.D. in Computer Science**, _2013-2019, Università della Svizzera italiana, Switzerland_.
   Programming languages research in Java, Scala and Haskell, runtime systems and virtual machines with C++, software verification, data analysis using R and Python.
 
-- 🎓 **Licenciate in Computer Science**, 2007-2011. _University of Buenos Aires_, Argentina
-
+- 🎓 **Licenciate in Computer Science**, _2007-2011, University of Buenos Aires, Argentina_.
   This degree is considered by many institutions as being equivalent to an M.Sc. degree.
 
-- **Internship & Master Thesis**, 2011. _INRIA/University of Strasbourg_, France
+- **Internship & Master Thesis**, _2011, INRIA/University of Strasbourg, France_.
+  Worked on VMAD, "A Virtual Machine for Automatic Program Parallelization"
 
-  Working on VMAD, "A Virtual Machine for Automatic Program Parallelization"
-
-- 🎓 **Computer Analyst**, 2003-2006. _University of Buenos Aires_, Argentina
-
+- 🎓 **Computer Analyst**, _2003-2006, University of Buenos Aires, Argentina_.
   This is a 3 years degree as part of the Licentiate in Computer Science programme.
 
 <!--
