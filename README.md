@@ -1,7 +1,5 @@
 # Hi there, I'm Luis
 
-## this is a **WIP** 👋
-
 ## About Me
 
 I worked in the Web3 space for more than 2 years.
