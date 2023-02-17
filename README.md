@@ -1,7 +1,7 @@
 # Hi there, I'm Luis
 
 I worked in the Web3 space for more than 2 years.
-I worked with Ethereum, Avalanche, NEAR, EOS/WAX and Everscale (TON) using both Solidity and Rust.
+I worked with Ethereum & NEAR, Avalanche, EOS/WAX and Everscale (TON) using **Solidity**, **Rust** and **TypeScript/JavaScript**.
 Moreover, I have worked for more than 10 years in private industry in different roles, as Software Engineer, Network Administrator and Freelance Developer.
 
 I have a Ph.D. in Informatics at the Università della Svizzera italiana, Switzerland.
@@ -10,7 +10,7 @@ Its main goal was to understand how and why programming features are being used 
 
 ## Interests
 
-- 🔭 Typescript/Javascript, Rust & Solidity
+- 🔭 TypeScript/JavaScript, Rust & Solidity
 
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acuarica&theme=dracula&exclude_repo=phd-thesis&langs_count=10&layout=compact)
   > **Note** This does not indicate skill level; it's a metric to determine which languages have the most code on GitHub.
