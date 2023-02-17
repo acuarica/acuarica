@@ -1,7 +1,5 @@
 # Hi there, I'm Luis
 
-## About Me
-
 I worked in the Web3 space for more than 2 years.
 I worked with Ethereum, Avalanche, NEAR, EOS/WAX and Everscale (TON) using both Solidity and Rust.
 Moreover, I have worked for more than 10 years in private industry in different roles, as Software Engineer, Network Administrator and Freelance Developer.
