@@ -24,6 +24,8 @@ Its main goal was to understand how and why programming features are being used 
 
 - 🎓 **Ph.D. in Computer Science**, _2013-2019, Università della Svizzera italiana, Switzerland_.
   Programming languages research in Java, Scala and Haskell, runtime systems and virtual machines with C++, software verification, data analysis using R and Python.
+  [Ph.D Thesis](https://acuarica.github.io/phd-thesis/phd-thesis.pdf) |
+  [Ph.D Proposal](https://acuarica.github.io/phd-proposal/phd-proposal.pdf)
 
 - 🎓 **Licenciate in Computer Science**, _2007-2011, University of Buenos Aires, Argentina_.
   This degree is considered by many institutions as being equivalent to an M.Sc. degree.
