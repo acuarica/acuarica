@@ -8,6 +8,8 @@ I have a Ph.D. in Informatics at the Università della Svizzera italiana, Switze
 The topic of my Ph.D. was empirical studies on programming languages.
 Its main goal was to understand how and why programming features are being used in the wild.
 
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=acuarica&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dracula)
+
 ## Interests
 
 - 🔭 TypeScript/JavaScript, Rust & Solidity
