@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=acuarica&repo=vscode-ethers&theme=dracula)](https://github.com/acuarica/vscode-ethers)
 
 > [!NOTE]
-> GitHub Stats, Most Used Languages and Custom Pins cards provided by [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended>) project.
+> GitHub Stats, Most Used Languages and Custom Pins cards provided by [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) project.
