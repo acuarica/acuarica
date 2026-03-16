@@ -15,8 +15,7 @@ Its main goal was to understand how and why programming features are being used 
 - 🔭 TypeScript/JavaScript, Rust & Solidity
 
   ![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=acuarica&theme=dracula&exclude_repo=phd-thesis&langs_count=10&layout=compact)
-  > [!NOTE]
-  > This does not indicate skill level; it's a metric to determine which languages have the most code on GitHub.
+  > **Note** This does not indicate skill level; it's a metric to determine which languages have the most code on GitHub.
 
 - 🔭 Web3, Smart Contracts, Ethereum & EVM-based blockchains
 - 🔭 Partial & Symbolic Evaluation, Supercompilation
